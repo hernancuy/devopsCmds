@@ -1,5 +1,5 @@
 # devopsCmds
-List of useful commands for differents tools
+Lista de comandos utiles para diferentes herramientas y sistemas operativos.
 
 # Comandos Linux
 
